@@ -1,2 +1,2 @@
-# Jogo_Encontre_Palavras
+# Jogo_Caça_Palavras
 Tutorial by CodePlanStudio
